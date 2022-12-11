@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/118819574/206901168-a44eac57-3326-42eb-893f-13a8e81422e1.png)
+
 # BULLDOZER PRICE PREDICTION
 This is a supervised regression time series problem , to build a model to predict the prices of bulldozer using various factors that can affect the price.
 
